@@ -32,3 +32,6 @@ In the images below, the balanced accuracy scores and the precision and recall s
 
 
 ## Summary
+Of the six models we used, the Easy Ensemble Classifier model proves to be the best model to analyze credit risk since the precision, recall and accuracy scores were the closest to 1. Also, the f1 score (which can be seen as a summary statistic of precision and recall) on the Easy Ensemble Classifier was the highest of all the models at 0.97.
+
+Alternatively, the worst performing model was the Cluster Centroids model with overall low precision and recall scores and an f1 score of only 0.60. 
